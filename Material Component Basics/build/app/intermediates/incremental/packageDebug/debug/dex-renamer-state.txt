@@ -1,4 +1,4 @@
-#Fri Jun 01 10:22:50 WIB 2018
+#Fri Jun 01 10:27:04 WIB 2018
 base.0=/home/ataufiq/Portofolio/Walkthrough-Flutter/Material Component Basics/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
