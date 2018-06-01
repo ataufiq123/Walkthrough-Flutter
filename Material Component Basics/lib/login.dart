@@ -67,12 +67,16 @@ class _LoginPageState extends State<LoginPage> {
                   child: Text('CANCEL'),
                   onPressed: () {
                     //TODO: Clear the text fields (101)
+                        //TODO: Clear the text fields (101)
+                    _usernameController.clear();
+                    _passwordController.clear();
                   },
                 ),
                 RaisedButton(
                   child: Text('NEXT'),
                   onPressed: () {
                 // TODO: Show the next page (101) 
+                Navigator.pop(context);
                   },
                 ),
           ],
